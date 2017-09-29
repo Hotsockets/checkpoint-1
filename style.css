@@ -54,16 +54,16 @@ img {
   margin-bottom: 20px;
 }
 
-#piedepage {
+footer {
 background-color: black;
 }
 
-#piedepage li {
+footer li {
   list-style: none;
   display: inline-block;
 }
 
-#piedepage a {
+footer a {
   color:  #a6a6a6;
   display: block;
   text-transform: uppercase;
